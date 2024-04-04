@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    margin: auto;
+}
+
+#container{
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    margin: auto;
+}
